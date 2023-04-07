@@ -7,4 +7,4 @@
 ### Capturas de pantalla
 
 ![image](/Tarea5-ProgWeb-master/img/contacto1.png)
-![image](/img/conctaro2.png)
+![image](/Tarea5-ProgWeb-master/img/conctaro2.png)
